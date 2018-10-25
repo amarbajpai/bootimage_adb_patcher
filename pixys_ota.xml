@@ -107,6 +107,6 @@
             	id="gapps"
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
-	    </osprey>	
+	    </tissot>	
 	</Stable>
 </SlimOTA>
