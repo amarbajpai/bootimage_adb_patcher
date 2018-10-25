@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <osprey>
+            <Filename>PixysOS-v2.0-20180905-OFFICIAL-osprey.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://www.androidfilehost.com/?fid=1322778262903998189</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/PixysOS-Devices/OTA/oreo/Changlogs/osprey.xml</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+	    </osprey>
+        <santoni>
+            <Filename>PixysOS-v2.0-20180907-OFFICIAL-santoni.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://androidfilehost.com/?fid=1322778262904000087</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/PixysOS-Devices/OTA/oreo/Changlogs/santoni.xml</ChangelogUrl>
+            <SlimGappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            </santoni>
+        <whyred>
+            <Filename>PixysOS-v2.1-20180924-whyred-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://mirrors.c0urier.net/android/Miguel/PixysOS/PixysOS-v2.1-20180924-whyred-OFFICIAL.zip</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/PixysOS-Devices/OTA/pie/Changlogs/whyred.xml</ChangelogUrl>
+            <SlimGappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            </whyred>
+        <X00TD>
+            <Filename>PixysOS-v2.0-20180916-OFFICIAL-X00TD.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://www.androidfilehost.com/?fid=1322778262904007034</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/PixysOS-Devices/OTA/pie/Changlogs/X00TD.xml</ChangelogUrl>
+            <SlimGappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            </X00TD>
+        <s2>
+            <Filename>PixysOS-v2.2-20181003-OFFICIAL-s2.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://sourceforge.net/projects/pixys-os/files/pie/s2/PixysOS-v2.2-20181003-s2-OFFICIAL.zip/download</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/PixysOS-Devices/OTA/pie/Changlogs/s2.xml</ChangelogUrl>
+            <SlimGappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            </s2>
+	    
+	  <rolex>
+            <Filename>PixysOS-v2.1-20180922-OFFICIAL-rolex.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://www.androidfilehost.com/?fid=1322778262904010915</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/PixysOS-Devices/OTA/pie/Changlogs/rolex.xml</ChangelogUrl>
+            <SlimGappsUrl
+                id="gapps"
+                title="Gapps"
+                description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+            </rolex>
+			
+		<tissot>
+            <Filename>PixysOS-v2.2-20181014-OFFICIAL-tissot.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://sourceforge.net/projects/pixys-os/files/pie/tissot/PixysOS-v2.2-20181014-tissot-OFFICIAL.zip/download</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://raw.githubusercontent.com/PixysOS-Devices/OTA/oreo/Changlogs/s2.xml</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+	    </osprey>	
+	</Stable>
+</SlimOTA>
