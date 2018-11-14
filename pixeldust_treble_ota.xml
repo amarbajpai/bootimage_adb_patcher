@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <phhgsi_arm64_ab>
-              <Filename>system-arm64-ab-20181024.img.xz</Filename>
+              <Filename>treble_arm64_bvN-pie-release-two-20181112-1236.img.xz</Filename>
               <RomUrl id="rom" title="rom" description="Download The Latest system.img.xz and extract it to get system.img">https://downloads.sourceforge.net/project/pixeldust-treble/treble/system-arm64-ab-20181024.img.xz?r=https%3A%2F%2Fsourceforge.net%2Fprojects%2Fpixeldust-treble%2Ffiles%2Ftreble%2F&ts=1540416126&use_mirror=master</RomUrl>
               <RomMirrorUrl id="romirror" title="XDA Thread" description="Visit The XDA Thread">https://forum.xda-developers.com/mi-a1/development/unofficial-pixys-os-t3845454</RomMirrorUrl> 
               <ChangelogUrl id="changelogs" title="Changelogs" description="Check Out The Latest Changes">https://github.com/pixeldustproject-p/DeviceOTA/raw/p/Changelogs/Changelog_marlin.txt</ChangelogUrl> 
