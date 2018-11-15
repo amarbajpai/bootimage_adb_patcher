@@ -2,8 +2,8 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <treble_arm64_bvN-pie-release-two-20181112-1236>
-              <Filename>treble_arm64_bvN-pie-release-two-20181115-1236.img.xz</Filename>
-              <RomUrl id="rom" title="rom" description="Download The Latest system.img.xz and extract it to get system.img">https://sourceforge.net/projects/havoc-unofficial/files/system.img.xz/download</RomUrl>
+              <Filename>treble_arm64_bvN-pie-release-two-20181112-1236.img.xz</Filename>
+              <RomUrl id="rom" title="rom" description="Download The Latest system.img.xz and extract it to get system.img">https://sourceforge.net/projects/havoc-unofficial/files/treble_arm64_bvN-pie-release-two-20181112-1236.img.xz/download</RomUrl>
               <RomMirrorUrl id="romirror" title="XDA Thread" description="Visit The XDA Thread">https://forum.xda-developers.com/mi-a1/development/unofficial-pixys-os-t3845454</RomMirrorUrl> 
               <ChangelogUrl id="changelogs" title="Changelogs" description="Check Out The Latest Changes">https://github.com/pixeldustproject-p/DeviceOTA/raw/p/Changelogs/Changelog_marlin.txt</ChangelogUrl> 
               <PaypalUrl id="donation" title="Donation" description="Donate To The Developer">https://tinyurl.com/yawypkah</PaypalUrl>
