@@ -4,7 +4,7 @@
       "brand":"Motorola",
       "codename":"evert",
       "maintainer_name":"Ardjlon",
-      "maintainer_name1":
+      "maintainer_name1":"",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7006405",
       "xda_thread":"https://forum.xda-developers.com/g6-plus/development/rom-pixysos-t3928295"
    },
@@ -13,7 +13,7 @@
       "brand":"Xiaomi",
       "codename":"markw",
       "maintainer_name":"DarkAngelGR",
-      "maintainer_name1":
+      "maintainer_name1":"",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8065843",
       "xda_thread":"https://forum.xda-developers.com/redmi-4-prime/development/9-0-pixysos-v2-4-t3935996/post79648061#post79648061"
    },
@@ -22,7 +22,7 @@
       "brand":"Xiaomi",
       "codename":"mido",
       "maintainer_name":"Dattu Sharma",
-      "maintainer_name1":
+      "maintainer_name1":"",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8531102",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-4/xiaomi-redmi-note-4-snapdragon-roms-kernels-recoveries--other-development/rom-pixysos-t3863047"
    },
@@ -31,7 +31,7 @@
       "brand":"Xiaomi",
       "codename":"rolex",
       "maintainer_name":"Arpon Sarkar",
-      "maintainer_name1":
+      "maintainer_name1":"",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8843815",
       "xda_thread":"https://forum.xda-developers.com/redmi-4a/development/9-0-rom-pixysos-v2-4rolex-t3867508"
    },
@@ -48,7 +48,7 @@
       "brand":"Motorola",
       "codename":"sanders",
       "maintainer_name":"Syed Sajid",
-      "maintainer_name1":
+      "maintainer_name1":"",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6116475",
       "xda_thread":"https://forum.xda-developers.com/moto-g5s-plus/development/rom-t3860526"
    },
@@ -57,7 +57,7 @@
       "brand":"Xiaomi",
       "codename":"santoni",
       "maintainer_name":"Ojas Sinha",
-      "maintainer_name1":
+      "maintainer_name1":"",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8131258",
       "xda_thread":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/9-0-pixysos-t3943380"
    },
@@ -66,7 +66,7 @@
       "brand":"Xiaomi",
       "codename":"tissot",
       "maintainer_name":"Amar Bajpai",
-      "maintainer_name1":
+      "maintainer_name1":"",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7590774",
       "xda_thread":"https://forum.xda-developers.com/mi-a1/development/unofficial-pixys-os-t3845454"
    },
@@ -75,7 +75,7 @@
       "brand":"Xiaomi",
       "codename":"jasmine_sprout",
       "maintainer_name":"pqhaz",
-      "maintainer_name1":
+      "maintainer_name1":"",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=9735543",
       "xda_thread":""
    },
@@ -84,7 +84,7 @@
       "brand":"Xiaomi",
       "codename":"vince",
       "maintainer_name":"Naveen Achari",
-      "maintainer_name1":
+      "maintainer_name1":"",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=9697924",
       "xda_thread":""
    },
@@ -93,7 +93,7 @@
       "brand":"Asus",
       "codename":"X00TD",
       "maintainer_name":"Subins Mani",
-      "maintainer_name1":
+      "maintainer_name1":"",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=7868666",
       "xda_thread":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixysos-t3890672"
    },
@@ -102,7 +102,7 @@
       "brand":"Xiaomi",
       "codename":"whyred",
       "maintainer_name":"Syed Sajid",
-      "maintainer_name1":
+      "maintainer_name1":"",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=6116475",
       "xda_thread":"https://forum.xda-developers.com/redmi-note-5-pro/development/rom-pixysos-t3846622"
    },
@@ -111,7 +111,7 @@
       "brand":"Lenovo",
       "codename":"z2_plus",
       "maintainer_name":"Aswin A S",
-      "maintainer_name1":
+      "maintainer_name1":"",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=8499818",
       "xda_thread":"https://forum.xda-developers.com/lenovo-zuk-z2/development/rom-pixys-os-zuk-z2-plus-t3854189"
    },
@@ -120,7 +120,7 @@
       "brand":"Xiaomi",
       "codename":"sakura",
       "maintainer_name":"Tushar Mahajan",
-      "maintainer_name1":
+      "maintainer_name1":"",
       "maintainer_url":"https://forum.xda-developers.com/member.php?u=9505787",
       "xda_thread":"https://forum.xda-developers.com/redmi-6-pro/development/rom-pixys-os-v2-4-t3928452"
    }
